@@ -1,0 +1,11 @@
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\bin\Debug\netcoreapp2.1\HF1_A1.deps.json
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\bin\Debug\netcoreapp2.1\HF1_A1.runtimeconfig.json
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\bin\Debug\netcoreapp2.1\HF1_A1.runtimeconfig.dev.json
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\bin\Debug\netcoreapp2.1\HF1_A1.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\bin\Debug\netcoreapp2.1\HF1_A1.pdb
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\obj\Debug\netcoreapp2.1\HF1_A1.csprojAssemblyReference.cache
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\obj\Debug\netcoreapp2.1\HF1_A1.AssemblyInfoInputs.cache
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\obj\Debug\netcoreapp2.1\HF1_A1.AssemblyInfo.cs
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\obj\Debug\netcoreapp2.1\HF1_A1.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\obj\Debug\netcoreapp2.1\HF1_A1.pdb
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\HF1_A1\obj\Debug\netcoreapp2.1\HF1_A1.csproj.CoreCompileInputs.cache

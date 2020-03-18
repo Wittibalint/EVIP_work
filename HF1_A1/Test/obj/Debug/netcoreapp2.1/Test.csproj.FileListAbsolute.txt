@@ -1,0 +1,17 @@
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\HF1_A1.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\bin\Debug\netcoreapp2.1\HF1_A1.pdb
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.pdb
+C:\Users\Witti\source\repos\labWittibalint\HF1_A1\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
